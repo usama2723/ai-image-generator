@@ -12,3 +12,7 @@
     font-weight: 500;
     padding-bottom: 30px;
 }
+.image-loading{
+    display: flex;
+    flex-direction: column;
+}
